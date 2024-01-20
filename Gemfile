@@ -67,3 +67,5 @@ group :test do
 end
 
 gem "execjs", "~> 2.9"
+
+gem "dockerfile-rails", ">= 1.6", :group => :development
