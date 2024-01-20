@@ -1,0 +1,4 @@
+{
+  "name": "dockerfile-rails-issue-reproduction",
+  "packageManager": "yarn@4.0.2"
+}
